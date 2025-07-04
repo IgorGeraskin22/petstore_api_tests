@@ -46,7 +46,7 @@ petstore_api_tests/
 1. **Клонируй репозиторий:**
    ```bash
    git clone https://github.com/IgorGeraskin22/petstore_api_tests.git
-   cd ИМЯ_РЕПО
+   
    ```
 
 2. **Создай виртуальное окружение (опционально):**
