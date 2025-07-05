@@ -1,0 +1,18 @@
+{
+  "valid_user": {
+    "username": "mor_2314",
+    "password": "83r5^_"
+  },
+  "invalid_user": {
+    "username": "invalid_user",
+    "password": "wrong_pass"
+  },
+  "empty_user": {
+    "username": "",
+    "password": ""
+  },
+  "sql_injection_user": {
+    "username": "' OR '1'='1",
+    "password": "' OR '1'='1"
+  }
+}
