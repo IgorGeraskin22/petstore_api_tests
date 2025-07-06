@@ -99,11 +99,9 @@ fakestore-api-tests/
 - графики и тренды успешности прогонов.
 
 ### 📷 Скриншот:
-![Allure report overview](https://raw.githubusercontent.com/IgorGeraskin22/fakestore-api-tests/main/reports/allure_screenshot_example.png)
+![Allure report overview](https://igorgeraskin22.github.io/fakestore-api-tests/#)
 
-> Скриншот нужно загрузить в GitHub в `reports/allure_screenshot_example.png`, чтобы он отображался корректно.
 
----
 
 ## 🧰 Используемые технологии
 
